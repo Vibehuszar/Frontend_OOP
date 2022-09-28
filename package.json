@@ -1,0 +1,28 @@
+{
+  "name": "frontend_oop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vibehuszar/Frontend_OOP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vibehuszar/Frontend_OOP/issues"
+  },
+  "homepage": "https://github.com/Vibehuszar/Frontend_OOP#readme",
+  "devDependencies": {
+    "bootstrap": "^5.2.1",
+    "css-loader": "^6.7.1",
+    "mini-css-extract-plugin": "^2.6.1",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
